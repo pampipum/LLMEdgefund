@@ -1,0 +1,8 @@
+openai
+pandas
+yfinance
+matplotlib
+python-dotenv
+langgraph
+langchain
+langchain_openai
